@@ -1,0 +1,26 @@
+{
+  "name": "netlify-puppeteer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.2.14",
+    "@tryfabric/martian": "^1.2.4",
+    "cheerio": "^1.0.0-rc.12",
+    "chrome-aws-lambda": "^10.1.0",
+    "googleapis": "^134.0.0",
+    "gpt-tokenizer": "^2.1.2",
+    "js-tiktoken": "^1.0.10",
+    "langchain": "^0.1.28",
+    "notion-to-md": "^3.1.1",
+    "playwright-aws-lambda": "^0.10.0",
+    "puppeteer": "^22.3.0",
+    "youtube-transcript": "^1.1.0"
+  }
+}
